@@ -1,7 +1,7 @@
 {
-  "name": "Motherplate",
+  "name": "Yodas: mini-profile Demo",
   "version": "0.1.0",
-  "author": "Lee Munroe",
+  "author": "Chen Kaza",
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
