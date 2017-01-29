@@ -1,0 +1,29 @@
+//All Animations
+
+@keyframes swing {
+
+    20% {
+        -webkit-transform: rotate(-2deg);
+        transform: rotate(-2deg);
+    }
+
+    40% {
+        -webkit-transform: rotate(2deg);
+        transform: rotate(2deg);
+    }
+
+    60% {
+        -webkit-transform: rotate(-1deg);
+        transform: rotate(-1deg);
+    }
+
+    80% {
+        -webkit-transform: rotate(1deg);
+        transform: rotate(1deg);
+    }
+
+    to {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}

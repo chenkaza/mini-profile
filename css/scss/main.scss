@@ -1,0 +1,22 @@
+
+//Main font "kanit"
+@import url("https://fonts.googleapis.com/cssfamily=Kanit:300,400,500,600,700,800,900");
+
+//Material Icons
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+//reset style
+@import "base/reset";
+
+//base
+@import "base/animation";
+@import "base/variables";
+
+//components
+@import "components/general";
+@import "components/main_header";
+@import "components/chat";
+@import "components/feed_header";
+@import "components/feed";
+@import "components/companies";
+
